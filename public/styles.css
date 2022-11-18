@@ -1,0 +1,47 @@
+*{
+    background-color: rgb(174, 177, 162);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding: 0px;
+}
+
+#salida{
+    border: 1rem, black;
+}
+.header{
+    font-size:xx-large;
+    margin: 2rem;
+}
+
+.main-container{
+    font-size: x-large;
+    padding: 1rem;
+}
+
+.btn{
+    background-color: rgb(157, 195, 229);
+    text-decoration-color: blueviolet;
+    border-radius: 10px;
+    padding-inline: 3rem;
+    padding: 8px;
+}
+
+.btn:hover{
+    background-color: rgb(100, 143, 172);
+}
+
+.text-input{
+    border-radius: 20px;
+    background-color: rgb(219, 237, 240);
+    padding: 5px;
+}
+
+.output-container{
+    margin: 1rem;
+    border: 2px, rgb(24, 83, 83)
+
+}
+
+.footer{
+    margin: 2rem;
+}
